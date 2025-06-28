@@ -7,6 +7,8 @@ public class TheatreSquare {
         
         long tilesInLength = (long) Math.ceil((double) n / a);
         long tilesInWidth = (long) Math.ceil((double) m / a);
+
+
         
         System.out.println(tilesInLength * tilesInWidth);
         
