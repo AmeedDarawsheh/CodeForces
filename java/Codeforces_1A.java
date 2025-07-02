@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TheatreSquare {
+public class Codeforces_1A {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         long n = scan.nextLong(), m = scan.nextLong(), a = scan.nextLong();

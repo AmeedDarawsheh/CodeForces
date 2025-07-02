@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Codeforces_263A {
     public static void main(String[] args) {
     Scanner scan = new Scanner (System.in);
     int matrix[][] = new int[5][5];

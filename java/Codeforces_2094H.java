@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Codeforces_2094H {
     static final int MAXV = 100_000;
     static int[] spf = new int[MAXV+1];
     static ArrayList<Integer>[] posList = new ArrayList[MAXV+1];

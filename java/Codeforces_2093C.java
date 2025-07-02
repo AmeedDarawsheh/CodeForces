@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Solution {
+public class Codeforces_2093C {
 
 
     static boolean isPrime(BigInteger number) {

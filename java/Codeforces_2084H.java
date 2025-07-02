@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Codeforces_2084H {
 
     static final int N = 1 << 21;
     static final int MOD = (int) 1e9 + 7;

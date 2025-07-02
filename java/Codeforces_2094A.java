@@ -1,9 +1,7 @@
-public class 2094A - 18 {
-    
-}
+
 import java.util.Scanner;
 
-public class Solution {
+public class Codeforces_2094A {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

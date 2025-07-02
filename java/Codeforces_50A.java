@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MaxDominoes {
+public class Codeforces_50A {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int M = scanner.nextInt();

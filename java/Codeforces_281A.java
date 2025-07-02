@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class Codeforces_281A {
     public static void main(String[] args) {
       
       String input = new Scanner(System.in).nextLine();

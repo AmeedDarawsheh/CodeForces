@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Codeforces_158A {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt(), k = in.nextInt(), count = 0;
