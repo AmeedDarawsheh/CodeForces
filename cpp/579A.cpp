@@ -16,7 +16,7 @@ int main()
             count++;
         x /= 2;
     }
-
+  
     cout << count << "\n";
 
     return 0;
